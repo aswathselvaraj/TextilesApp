@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TextilesApplication {
 public static void main(String[] args){
     SpringApplication.run(TextilesApplication.class);
+    System.out.println("Application started");
 
 }
 }
